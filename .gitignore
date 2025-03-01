@@ -5,3 +5,4 @@ code/*.sh
 .RData
 .Rhistory
 *.Rproj
+output/fastqc
