@@ -1,0 +1,7 @@
+.Rproj.user
+code/*.html
+code/*.py
+code/*.sh
+.RData
+.Rhistory
+*.Rproj
